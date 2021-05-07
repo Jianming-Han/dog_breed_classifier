@@ -6,6 +6,10 @@ The goal of this project is to build a pipeline that can be used for dog breed i
 1) Given an image of a dog, the model will identify an estimate of the canine’s breed;
 2) Given an image of a human, the model will identify the resembling dog breed.
 
+![alt text](https://github.com/Jianming-Han/dog_breed_classifier_CNN/blob/master/output/o1.png)
+![alt text](https://github.com/Jianming-Han/dog_breed_classifier_CNN/blob/master/output/o2.png)
+![alt text](https://github.com/Jianming-Han/dog_breed_classifier_CNN/blob/master/output/o3.png)
+
 ## Data
 You can download the [dog datasets](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and [human datasets](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).
 Totally we get 13233 and 8351 images for human and dogs respectively. The human images are sorted by names. All human images are in a standard size of 250x250, most images contain only one human face, but some contain multiple human faces. The dog images are classified into 33 dog categories and split into train (6680 images), validation (835 images) and test (836 images) subsets. The average image quantity for each breed is about 63 (≈8351/133). And some breeds contain more and some contain less, it’s slightly imbalanced among all the breeds. Dog images are with different image sizes, resolutions and lighting conditions, some contain complete dog body while some just contain a dog head. Further, some images contain multiple dogs and even human.
