@@ -1,7 +1,7 @@
 # Dog Breed Identification
 This work is part of Udacity’s MLND capstone project. 
 
-## project overview
+## Project overview
 The goal of this project is to build a pipeline that can be used for dog breed identification. The model will take any real-world, user-supplied images as input and make predictions accordingly. Specifically, two main functionalities come with the model:
 1) Given an image of a dog, the model will identify an estimate of the canine’s breed;
 2) Given an image of a human, the model will identify the resembling dog breed.
