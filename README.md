@@ -6,6 +6,7 @@ The goal of this project is to build a pipeline that can be used for dog breed i
 1) Given an image of a dog, the model will identify an estimate of the canine’s breed;
 2) Given an image of a human, the model will identify the resembling dog breed.
 
+#### Results preview
 ![alt text](https://github.com/Jianming-Han/dog_breed_classifier_CNN/blob/master/output/o1.png)
 ![alt text](https://github.com/Jianming-Han/dog_breed_classifier_CNN/blob/master/output/o2.png)
 ![alt text](https://github.com/Jianming-Han/dog_breed_classifier_CNN/blob/master/output/o3.png)
